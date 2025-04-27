@@ -73,4 +73,3 @@ Go to 👉 http://localhost:5173<br> Click on the <b>Activate Vision 🔥</b> bu
 • Anime-styled UI with chakra-themed animations<br> • 3D interactive Torus and Light Objects<br> • Real-time webcam capture<br> • YOLOv8 object detection live in the browser<br> • Fully responsive and lightweight<br>
 <h2>📸 Demo Screenshot</h2> <p align="center"> <img src="https://user-images.githubusercontent.com/your-screenshot.png" width="600" /> </p> <h2>📢 Notes</h2>
 
-• If your webcam feed doesn't show, make sure camera permissions are allowed.<br> • For best performance, use a small YOLOv8 model like <b>YOLOv8n.pt</b> or <b>TensorRT optimized</b>.<br> • Future versions will add Naruto seals (火, 水, 風...) appearing dynamically based on detections!<br>
